@@ -65,5 +65,5 @@ def retrain(): # Rutarlo al endpoint '/api/v1/retrain/', metodo GET
     
     
     
-
-app.run()
+if __name__ == '__main__':
+    app.run()
