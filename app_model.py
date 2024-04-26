@@ -14,7 +14,7 @@ app = Flask(__name__)
 app.config['DEBUG'] = True
 
 
-path_base = "/home/albertoromv/clase26042024/pythonanywhere26042024/"
+path_base = "/home/albertoromv/clase26042024/pythonanywhere26042024/pythonanywhere26042024/"
 
 # Enruta la landing page (endpoint /)
 @app.route('/', methods=['GET'])
