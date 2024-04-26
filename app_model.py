@@ -71,7 +71,6 @@ def webhook():
     # ¡conseguido! :)
     
     path_repo = '/home/albertoromv/clase26042024/pythonanywhere26042024/pythonanywhere26042024/'
-
     servidor_web = '/var/www/albertoromv_pythonanywhere_com_wsgi.py' 
 
     # Comprueba si la solicitud POST contiene datos JSON
