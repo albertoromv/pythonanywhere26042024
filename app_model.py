@@ -13,6 +13,7 @@ import subprocess
 app = Flask(__name__)
 app.config['DEBUG'] = True
 
+# 30042024 !!
 
 path_base = "/home/albertoromv/clase26042024/pythonanywhere26042024/pythonanywhere26042024/"
 
